@@ -66,7 +66,5 @@ The dataset is sourced from Inside Airbnb
 
 Jonathan Subit
 Jonathanmatthewsubit@gmail.com
+www.linkedin.com/in/jonathan-subit
 
-]
-🔗 LinkedIn
- | Tableau Public
