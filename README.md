@@ -1,13 +1,13 @@
 # seattle_airbnb_analysis
 🎯 Objectives
 
-Identify patterns in rental prices across neighborhoods.
+• Identify patterns in rental prices across neighborhoods.
 
-Analyze availability trends and seasonal fluctuations.
+• Analyze availability trends and seasonal fluctuations.
 
-Explore relationships between listing characteristics (e.g., room type, number of reviews, host status) and price.
+• Explore relationships between listing characteristics (e.g., room type, number of reviews, host status) and price.
 
-Create an interactive dashboard for exploring insights.
+• Create an interactive dashboard for exploring insights.
 
 🧰 Tools & Technologies
 
@@ -39,23 +39,23 @@ Click Refresh to load the latest data.
 
 📈 Key Insights
 
-Neighborhoods such as Capitol Hill and Downtown Seattle have higher average prices.
+• Neighborhoods such as Capitol Hill and Downtown Seattle have higher average prices.
 
-Entire home/apartment listings command significantly higher prices than private rooms.
+• Entire home/apartment listings command significantly higher prices than private rooms.
 
-Superhosts tend to maintain better occupancy and higher ratings.
+• Superhosts tend to maintain better occupancy and higher ratings.
 
-Seasonal trends show increased bookings during summer months.
+• Seasonal trends show increased bookings during summer months.
 
 🧭 Dashboard Features
 
-Interactive filters for neighborhood, room type, and price range
+• Interactive filters for neighborhood, room type, and price range
 
-KPI cards for average price, occupancy, and review count
+• KPI cards for average price, occupancy, and review count
 
-Trend charts for monthly availability and pricing patterns
+• Trend charts for monthly availability and pricing patterns
 
-Map visualization of listings across Seattle
+• Map visualization of listings across Seattle
 
 📚 Data Source
 
